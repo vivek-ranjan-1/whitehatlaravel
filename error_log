@@ -1,0 +1,2 @@
+[18-Jan-2025 15:46:43 Asia/Kolkata] PHP Fatal error:  Cannot declare class CreatePermissionsTable, because the name is already in use in /home/u681804999/domains/whitehatrealty.in/public_html/database/migrations/2025_01_18_154621_create_permissions_table.php on line 7
+[18-Jan-2025 15:47:23 Asia/Kolkata] PHP Fatal error:  Cannot declare class CreatePermissionsTable, because the name is already in use in /home/u681804999/domains/whitehatrealty.in/public_html/database/migrations/2025_01_18_154621_create_permissions_table.php on line 7

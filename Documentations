@@ -1,0 +1,8 @@
+chmod +x /home/u681804999/domains/360propguide.com/public_html/artisan
+
+chmod -R 755 /home/u681804999/domains/360propguide.com/public_html
+
+ls -l /home/u681804999/domains/360propguide.com/public_html
+
+ls -l /opt/alt/php82/usr/bin/php
+
